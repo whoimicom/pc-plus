@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "rspress": "^1.23.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "dev": "rspress dev",
+    "build": "rspress build",
+    "preview": "rspress preview"
+  }
+}

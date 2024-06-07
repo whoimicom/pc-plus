@@ -1,0 +1,9 @@
+[
+  {
+    "type": "dir",
+    "name": "component",
+    "label": "Basic",
+    "collapsible": true,
+    "collapsed": false
+  }
+]
