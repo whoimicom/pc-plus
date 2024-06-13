@@ -1,9 +1,16 @@
 [
   {
-    "type": "dir",
-    "name": "component",
-    "label": "Basic",
-    "collapsible": true,
-    "collapsed": false
+    "text": "Guide",
+    "link": "/guide/",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "Hello World",
+    "link": "/hello/",
+    "activeMatch": "/hello/"
+  },
+  {
+    "text": "API",
+    "link": "https://rspress.dev/api/index.html"
   }
 ]
