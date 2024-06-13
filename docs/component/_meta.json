@@ -1,0 +1,9 @@
+[
+  {
+    "type": "dir",
+    "name": "basic",
+    "label": "Basic",
+    "collapsible": true,
+    "collapsed": false
+  }
+]
