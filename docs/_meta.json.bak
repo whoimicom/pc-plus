@@ -1,0 +1,19 @@
+[
+  {
+    "text": "Home",
+    "link": "/"
+  },
+  {
+    "text": "Guide",
+    "items": [
+      {
+        "text": "Getting Started",
+        "link": "/guide/getting-started"
+      },
+      {
+        "text": "Advanced",
+        "link": "/guide/advanced"
+      }
+    ]
+  }
+]
