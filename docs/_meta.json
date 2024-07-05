@@ -10,7 +10,7 @@
     "activeMatch": "^/application/"
   },
   {
-    "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "text": "Website",
+    "link": "https://github.com/vuepress/core"
   }
 ]

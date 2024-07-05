@@ -12,7 +12,7 @@ export default defineConfig({
             {
                 icon: "github",
                 mode: "link",
-                content: "https://whoimi.com",
+                content: "https://github.com/vuepress/core",
             },
         ],
     },
