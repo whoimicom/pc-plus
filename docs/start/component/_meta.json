@@ -1,0 +1,22 @@
+[
+  {
+    "type": "file",
+    "name": "cpu",
+    "label": "中央处理器"
+  },
+  {
+    "type": "file",
+    "name": "disk",
+    "label": "硬盘"
+  },
+  {
+    "type": "file",
+    "name": "memory",
+    "label": "内存"
+  },
+  {
+    "type": "file",
+    "name": "graphics",
+    "label": "显卡"
+  }
+]

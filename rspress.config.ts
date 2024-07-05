@@ -5,14 +5,14 @@ export default defineConfig({
     // root: path.join(__dirname, "docs"),
     root: "docs",
     title: "pc-plus",
-    description: "Rspack-based Static Site Generator",
+    description: "How to make your computer run faster",
     base: "/pc-plus",
     themeConfig: {
         socialLinks: [
             {
                 icon: "github",
                 mode: "link",
-                content: "https://github.com/web-infra-dev/rspress",
+                content: "https://whoimi.com",
             },
         ],
     },

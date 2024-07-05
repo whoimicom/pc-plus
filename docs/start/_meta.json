@@ -1,0 +1,23 @@
+[
+  {
+    "type": "dir",
+    "name": "component",
+    "label": "硬件基础",
+    "collapsible": true,
+    "collapsed": false
+  },
+  {
+    "type": "dir",
+    "name": "application",
+    "label": "应用程序",
+    "collapsible": true,
+    "collapsed": false
+  },
+  {
+    "type": "dir",
+    "name": "resources",
+    "label": "资源管理",
+    "collapsible": true,
+    "collapsed": false
+  }
+]
