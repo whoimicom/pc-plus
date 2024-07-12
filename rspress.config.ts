@@ -1,6 +1,7 @@
 import * as path from "path";
 import {defineConfig} from 'rspress/config';
 import katex from 'rspress-plugin-katex';
+import alignImage from 'rspress-plugin-align-image';
 
 export default defineConfig({
     // root: path.join(__dirname, "docs"),
@@ -17,6 +18,9 @@ export default defineConfig({
             },
         ],
     },
-    plugins: [katex()],
+    plugins: [
+        katex(),
+        // alignImage({justify: 'left', containerClassNames: ['left-img-class'],}),
+    ],
 });
 

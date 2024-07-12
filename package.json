@@ -4,7 +4,8 @@
     "rspress": "^1.24.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5",
-    "rspress-plugin-katex": "^0.3.0"
+    "rspress-plugin-katex": "^0.3.0",
+    "rspress-plugin-align-image": "^0.3.0"
   },
   "scripts": {
     "dev": "rspress dev",
