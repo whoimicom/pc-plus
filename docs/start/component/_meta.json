@@ -16,7 +16,7 @@
   },
   {
     "type": "file",
-    "name": "graphics",
+    "name": "gpu",
     "label": "显卡"
   }
 ]
