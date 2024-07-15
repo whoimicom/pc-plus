@@ -2,21 +2,21 @@
   {
     "type": "file",
     "name": "cpu",
-    "label": "中央处理器"
+    "label": "CPU 中央处理器"
   },
   {
     "type": "file",
     "name": "disk",
-    "label": "硬盘"
+    "label": "Disk 硬盘"
   },
   {
     "type": "file",
     "name": "memory",
-    "label": "内存"
+    "label": "Memory 内存"
   },
   {
     "type": "file",
     "name": "gpu",
-    "label": "显卡"
+    "label": "GPU 显卡"
   }
 ]
