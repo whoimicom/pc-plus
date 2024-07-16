@@ -13,10 +13,5 @@
     "type": "file",
     "name": "config",
     "label": "软件设置"
-  },
-  {
-    "type": "file",
-    "name": "uninstall",
-    "label": "软件卸载"
   }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "type": "file",
+    "name": "taskmgr",
+    "label": "资源管理器"
+  },
+  {
+    "type": "file",
+    "name": "shortcut",
+    "label": "常用快捷键"
+  }
+]

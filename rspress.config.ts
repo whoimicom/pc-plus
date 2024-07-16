@@ -8,7 +8,7 @@ export default defineConfig({
     root: "docs",
     title: "pc-plus",
     description: "How to make your computer run faster",
-    base: "/pc-plus",
+    base: "/website/pc-plus",
     themeConfig: {
         socialLinks: [
             {
